@@ -21,13 +21,13 @@ export default function BrandStory() {
 
         {/* Large inspiring statement */}
         <h2 className="mt-8 font-serif text-3xl font-light leading-snug tracking-tight text-white md:text-5xl lg:text-6xl">
-          Tinh hoa kết tinh từ lòng đất, <br />
-          gửi trao trọn vẹn những chân tình.
+         
+          Gửi trao trọn vẹn những chân tình.
         </h2>
 
         {/* Supporting description - max 25 words */}
         <p className="mx-auto mt-8 max-w-[60ch] font-sans text-base leading-relaxed text-zinc-300">
-          Tại Ploybay, chúng tôi tin rằng mỗi đóa hoa đều mang một linh hồn, và mỗi món quà được trao đi là một chương truyện đầy cảm xúc được viết tiếp.
+          Từ đầu những năm 2000, khi những món quà còn giản dị, chúng tôi bắt đầu tạo nên những sản phẩm da đầu tiên bằng tất cả sự tỉ mỉ và tâm huyết. Không chỉ là ví da hay thắt lưng, mỗi sản phẩm đều được chọn lựa kĩ từ chất liệu, thiết kế cho tới từng đường may hoàn thiện. Chúng tôi tin rằng, những món quà đẹp nhất không nằm ở giá trị vật chất mà là cảm xúc khi người nhận mở món quà ra. Mỗi chiếc hộp được trao đi là một kỉ niệm được lưu giữ. Và chúng tôi tự hào khi trở thành một phần trong khoảnh khắc ấy. Hơn 20 năm đồng hành cùng khách hàng, chúng tôi vẫn giữ trọn vẹn giá trị đầu. Sang trọng và tinh tế!
         </p>
       </div>
     </section>
